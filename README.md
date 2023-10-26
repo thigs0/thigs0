@@ -1,17 +1,10 @@
 ### Hi there 👋
 
-
-**thigs0/thigs0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning <img loading="lazy" height="60em" src="https://julialang.org/assets/infra/logo.svg"/>
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about math and climate
+- 📫 How to reach me: Twitter
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 
 <div>
