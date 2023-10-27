@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Nothing
 - 🌱 I’m currently learning <img loading="lazy" height="60em" src="https://julialang.org/assets/infra/logo.svg"/>
 - 💬 Ask me about math and climate
 - 📫 How to reach me: Twitter
