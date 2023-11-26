@@ -13,6 +13,8 @@
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=thigs0&show_icons=true&theme=dracula&count_private=true"/>
 </div>
 
+If any code help you, consider help me
+
 <a href="https://www.buymeacoffee.com/tthiagosanN">
 <img border="0" alt="buymeacoffee" src="bmc-button.png" width="300" height="100">
 </a>
