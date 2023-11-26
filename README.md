@@ -14,5 +14,5 @@
 </div>
 
 <a href="https://www.buymeacoffee.com/tthiagosanN">
-<img border="0" alt="buymeacoffee" src="bmc-button.png" width="100" height="100">
+<img border="0" alt="buymeacoffee" src="bmc-button.png" width="300" height="100">
 </a>
