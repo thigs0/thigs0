@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Nothing
+- Creator of [Matemática contínua](https://www.youtube.com/channel/UCEtKVKaMjeMUe-2APjCNQ1Q)
 - 🌱 I’m currently learning <img loading="lazy" height="60em" src="https://julialang.org/assets/infra/logo.svg"/>
 - 💬 Ask me about math and climate
-- 📫 How to reach me: Twitter
+- 📫 How to reach me: Instagram
 - 😄 Pronouns: He/Him
 
 
