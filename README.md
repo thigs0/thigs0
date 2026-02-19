@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Nothing
+- 🔭 I’m currently working
 - Creator of [Matemática contínua](https://www.youtube.com/channel/UCEtKVKaMjeMUe-2APjCNQ1Q)
 - 💬 Ask me about math and climate
 - 📫 How to reach me: Instagram
